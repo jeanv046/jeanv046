@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<h1 align="center">Hi, I'm Jean Vega  <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 
 **jeanv046/jeanv046** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
